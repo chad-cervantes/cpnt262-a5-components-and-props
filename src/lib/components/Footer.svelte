@@ -1,0 +1,20 @@
+<script>
+  const navItems = [
+   {name: 'Home', href: '/'},
+   {name: 'About', href: '/about'},
+   {name: 'Story', href: '/story'},
+   {name: 'Contact', href: '/contact'}
+ ];
+
+</script>
+
+
+<header class="bg-blue-400 text-white text-l flex justify-around p-4">
+ <nav>
+   <ul class="flex justify-around gap-4">
+     {#each navItems as {name, href}}
+       <li><a {href}>{name}</a></li>
+     {/each}  
+   </ul>
+ </nav>
+</header>
