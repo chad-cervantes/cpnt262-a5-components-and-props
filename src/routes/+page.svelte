@@ -1,4 +1,5 @@
 <script>
+  import Header from '../lib/components/Header.svelte'; 
   //imported card info
   import Card from '../lib/components/Card.svelte';
   
@@ -24,13 +25,17 @@
     location: 'Seattle',
     position: 'midfielder',
     team: 'Seattle Sounders'}
-  ];
- 
+ ];
+    
 </script>
+
+<Header />
 
 <!--For each loop-->
 {#each cardObj as card}
   <Card {...card} />
 {/each}
+
+
 
 
