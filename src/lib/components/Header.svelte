@@ -9,10 +9,10 @@
 </script>
 
 
-<header>
+<header class="bg-black text-white text-xl flex justify-between p-4">
   <div>logo</div>
   <nav>
-    <ul class>
+    <ul class="flex justify-around gap-4">
       {#each navItems as {name, href}}
         <li><a {href}>{name}</a></li>
       {/each}  
