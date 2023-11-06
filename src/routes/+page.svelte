@@ -5,18 +5,21 @@
   //Card object array
   const cardObj = [
     {name: 'Jose',
+    img: '/images/profile-pic.jpg',
     age:'25 years old',
     location: 'Los Angeles',
     position: 'striker',
     team: 'LA Galaxy'},
 
     {name: 'Daniel',
+    img: '/images/profile-pic.jpg',
     age:'23 years old',
     location: 'New York City',
     position: 'defender',
     team: 'NYCFC'},
 
     {name: 'Reggie',
+    img: '/images/profile-pic.jpg',
     age:'21 years old',
     location: 'Seattle',
     position: 'midfielder',
