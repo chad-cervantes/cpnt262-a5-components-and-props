@@ -6,7 +6,8 @@ export const cardObj = [
   location: 'Los Angeles',
   description: 'height of 6ft',
   position: 'striker',
-  team: 'LA Galaxy'},
+  team: 'LA Galaxy',
+  url: 'https://www.mlssoccer.com/'},
 
   { img: '/images/profile-pic.jpg',
   name: 'Daniel',
@@ -14,7 +15,8 @@ export const cardObj = [
   location: 'New York City',
   description: 'height of 5.8ft',
   position: 'defender',
-  team: 'NYCFC'},
+  team: 'NYCFC',
+  url:'https://www.mlssoccer.com/'},
 
   {img: '/images/profile-pic.jpg',
   name: 'Reggie',
@@ -22,7 +24,8 @@ export const cardObj = [
   location: 'Seattle',
   description: 'height of 5.6ft',
   position: 'midfielder',
-  team: 'Seattle Sounders'}
+  team: 'Seattle Sounders',
+  url: 'https://www.mlssoccer.com/'}
 ];
   
 
