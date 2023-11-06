@@ -1,4 +1,5 @@
 <script>
+  //Card component variables
   export let name;
   export let age;
   export let location;
@@ -6,6 +7,7 @@
   export let team;
 </script>
 
+<!--Card article-->
 <article>
   <div></div>
   <h3>{name}</h3>
