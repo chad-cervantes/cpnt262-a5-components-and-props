@@ -16,7 +16,7 @@
    <div>
     <a href={url}>
       <img src={img} class="w-[250px] h-[250px] m-auto rounded-[5%]" alt="player profile pic">
-      <h3 class="p-4 text-3xl">{name}</h3>
+      <h3 class="p-4 text-5xl">{name}</h3>
       <p class="p-1 text-orange-950">{age}</p>
       <p class="p-1 text-orange-950">{location}</p>
       <p class="p-1 text-orange-950">{position}</p>
