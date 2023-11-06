@@ -9,7 +9,7 @@
 </script>
 
 <!--Card article-->
-<article class="bg-pink-400 text-xl p-8 m-auto text-center  border-x-[600px] border-y-[50px] border-solid">
+<article class="lg:bg-pink-400 text-xl p-8 m-auto text-center  lg:border-x-[600px] lg:border-y-[50px] border-solid">
   <img src={img} class="w-[250px] h-[250px] m-auto" alt="player profile pic">
   <h3 class="p-4 text-3xl">{name}</h3>
   <p class="p-1 text-green-200">{age}</p>
