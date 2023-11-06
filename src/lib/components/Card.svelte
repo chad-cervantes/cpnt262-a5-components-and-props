@@ -4,6 +4,7 @@
   export let age;
   export let location;
   export let position;
+  export let description;
   export let team;
   export let img;
 </script>
@@ -17,6 +18,7 @@
       <p class="p-1 text-green-200">{age}</p>
       <p class="p-1 text-green-200">{location}</p>
       <p class="p-1 text-green-200">{position}</p>
+      <p class="p-1 text-green-200">{description}</p>
       <p class="p-1 text-green-200">{team}</p>
     </a>
   </article>
