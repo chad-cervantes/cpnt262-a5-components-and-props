@@ -1,4 +1,4 @@
-<h1>List of current MLS soccer players</h1>
+<h1 class="p-6 text-center text-7xl bg-rose-400">List of current MLS soccer players</h1>
 
 <script>
   //imported card info
