@@ -1,5 +1,4 @@
 <script>
-  import Header from '../lib/components/Header.svelte'; 
   //imported card info
   import Card from '../lib/components/Card.svelte';
   
@@ -28,8 +27,6 @@
  ];
     
 </script>
-
-<Header />
 
 <!--For each loop-->
 {#each cardObj as card}
