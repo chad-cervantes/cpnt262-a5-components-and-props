@@ -25,6 +25,15 @@ export const cardObj = [
   description: 'height of 5.6ft',
   position: 'midfielder',
   team: 'Seattle Sounders',
+  url: 'https://www.mlssoccer.com/'},
+
+  {img: '/images/profile-pic.jpg',
+  name: 'Yamal',
+  age:'20 years old',
+  location: 'Miami',
+  description: 'height of 6.1ft',
+  position: 'goalie',
+  team: 'Inter Miami',
   url: 'https://www.mlssoccer.com/'}
 ];
   
