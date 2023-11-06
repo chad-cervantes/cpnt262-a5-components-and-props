@@ -1,3 +1,5 @@
+<h1>List of current MLS soccer players</h1>
+
 <script>
   //imported card info
   import Card from '../lib/components/Card.svelte';
@@ -10,6 +12,7 @@
 {#each cardObj as card}
   <Card {...card} />
 {/each}
+
 
 
 
