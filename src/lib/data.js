@@ -1,6 +1,6 @@
 //Card object array
 export const cardObj = [
-  {img: '/images/profile-pic.jpg',
+  {img: '/images/pexels-pixabay-jose-card.jpg',
   name: 'Jose',  
   age:'25 years old',
   location: 'Los Angeles',
@@ -9,7 +9,7 @@ export const cardObj = [
   team: 'LA Galaxy',
   url: 'https://www.mlssoccer.com/'},
 
-  { img: '/images/profile-pic.jpg',
+  { img: '/images/pexels-mica-asato-daniel-card.jpg',
   name: 'Daniel',
   age:'23 years old',
   location: 'New York City',
@@ -18,7 +18,7 @@ export const cardObj = [
   team: 'NYCFC',
   url:'https://www.mlssoccer.com/'},
 
-  {img: '/images/profile-pic.jpg',
+  {img: '/images/pexels-evani-эвани-reggies-card.jpg',
   name: 'Reggie',
   age:'21 years old',
   location: 'Seattle',
@@ -27,7 +27,7 @@ export const cardObj = [
   team: 'Seattle Sounders',
   url: 'https://www.mlssoccer.com/'},
 
-  {img: '/images/profile-pic.jpg',
+  {img: '/images/pexels-pixabay-yamals-card.jpg',
   name: 'Yamal',
   age:'20 years old',
   location: 'Miami',
