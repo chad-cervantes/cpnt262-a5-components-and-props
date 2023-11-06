@@ -15,13 +15,13 @@
   <article class="w-[550px] lg:bg-red-50 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[10%] p-8 hover:bg-orange-200">
    <div>
     <a href={url}>
-      <img src={img} class="w-[250px] h-[250px] m-auto rounded-[5%]" alt="player profile pic">
-      <h3 class="p-4 text-5xl">{name}</h3>
-      <p class="p-1 text-orange-950">{age}</p>
-      <p class="p-1 text-orange-950">{location}</p>
-      <p class="p-1 text-orange-950">{position}</p>
-      <p class="p-1 text-orange-950">{description}</p>
-      <p class="p-1 text-orange-950">{team}</p>
+      <img src={img} class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="player profile pic">
+      <h3 class="p-4 text-6xl">{name}</h3>
+      <p class="p-1 text-3xl text-orange-950">{age}</p>
+      <p class="p-1 text-3xl text-orange-950">{location}</p>
+      <p class="p-1 text-3xl text-orange-950">{position}</p>
+      <p class="p-1 text-3xl text-orange-950">{description}</p>
+      <p class="p-1 text-3xl text-orange-950">{team}</p>
     </a>
   </div> 
   </article>
