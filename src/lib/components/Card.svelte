@@ -9,12 +9,11 @@
 </script>
 
 <!--Card article-->
-<article>
-  <div></div>
-  <h3>{name}</h3>
-  <img src={img} alt="">
-  <p>{age}</p>
-  <p>{location}</p>
-  <p>{position}</p>
-  <p>{team}</p>
+<article class="bg-pink-400 text-xl p-8 m-auto text-center  border-x-[600px] border-y-[50px] border-solid">
+  <img src={img} class="w-[250px] h-[250px] m-auto" alt="player profile pic">
+  <h3 class="p-4 text-3xl">{name}</h3>
+  <p class="p-1 text-green-200">{age}</p>
+  <p class="p-1 text-green-200">{location}</p>
+  <p class="p-1 text-green-200">{position}</p>
+  <p class="p-1 text-green-200">{team}</p>
 </article>
