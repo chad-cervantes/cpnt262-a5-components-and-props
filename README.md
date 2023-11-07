@@ -16,6 +16,10 @@
   - Brendan
   - Ashlyn (instructor)
 
+- NPM Installations
+  - [Svelte](https://sait-wbdv-f23.netlify.app/courses/cpnt-262/day-11)
+  - [Tailwind CSS with SvelteKit](https://tailwindcss.com/docs/guides/sveltekit)
+
 ### Github Pages Link
 
 - [GH Page](https://chad-cervantes.github.io/cpnt262-a5-components-and-props/)
