@@ -19,4 +19,4 @@
  </nav>
 </header>
 
-<p class="text-center bg-blue-400 text-white text-l p-4">&copy 2023 MLS Soccer | All Rights Reserved</p>
+<p class="text-center bg-blue-400 text-white text-l p-4">&copy 2023 Canada Soccer League | All Rights Reserved</p>
