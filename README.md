@@ -12,6 +12,10 @@
   - [Reggie's card image](https://www.pexels.com/photo/young-man-in-green-t-shirt-sitting-at-a-stadium-18870849/)
   - [Yamal's card image](https://www.pexels.com/photo/action-activity-adult-athlete-262506/)
 
+- Classmates & Instructors
+  - Brendan
+  - Ashlyn (instructor)
+
 ### Github Pages Link
 
 - [GH Page](https://chad-cervantes.github.io/cpnt262-a5-components-and-props/)
