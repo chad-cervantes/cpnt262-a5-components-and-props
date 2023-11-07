@@ -1,4 +1,10 @@
-<h1 class="p-6 text-center lg:text-7xl bg-rose-400 font-mono">List of current MLS soccer players</h1>
+<h1 class="p-6 text-center lg:text-7xl bg-rose-400 font-mono"> Canadian Soccer League</h1>
+
+<div>
+  <img src='/images/pexels-johannes-plenio-1103969.jpg' class="w-[1590px]">
+</div>
+
+<h1 class="p-6 text-center lg:text-7xl bg-rose-400 font-mono">List of current CSL soccer players</h1>
 
 <script>
   //imported card info
