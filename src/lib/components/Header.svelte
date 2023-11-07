@@ -1,4 +1,5 @@
 <script>
+  //Primary Navbar
    const navItems = [
     {name: 'Home', href: '/'},
     {name: 'About', href: '/about'},
@@ -8,7 +9,7 @@
 
 </script>
 
-
+<!--Primary Nav Links decoration-->
 <header class="bg-black text-white text-xl flex justify-between p-4">
   <div>logo</div>
   <nav>
