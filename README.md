@@ -15,3 +15,11 @@
 ### Github Pages Link
 
 ### Search Notes
+
+- Earlier in the day, I installed tailwind with no problems. For some odd reason though, the tailwind changes weren't rendering on the page.
+  1. tailwind install 'svelte' - [https://blog.logrocket.com/how-to-use-tailwind-css-svelte/]
+    - Useful words: "tailwind", "Svelte"
+    - Unuseful words: "install"
+  2. tailwind 'app.css' 'svelte' - [https://deadsimplechat.com/blog/how-to-use-tailwind-css-with-svelte/]
+    - I added the word 'app.css' since I knew it'd be related to the tailwind changes
+    - The website gave me a hint that I forgot to link 'app.css' to the app.html
