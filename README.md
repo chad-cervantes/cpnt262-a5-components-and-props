@@ -14,6 +14,8 @@
 
 ### Github Pages Link
 
+- [GH Page](https://chad-cervantes.github.io/cpnt262-a5-components-and-props/)
+
 ### Search Notes
 
 - Earlier in the day, I installed tailwind with no problems. For some odd reason though, the tailwind changes weren't rendering on the page.
