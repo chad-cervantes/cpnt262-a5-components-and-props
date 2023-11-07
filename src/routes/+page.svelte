@@ -15,10 +15,11 @@
 </script>
 
 <!--For each loop-->
-{#each cardObj as card}
-  <Card {...card} />
-{/each}
-
+<section class="grid grid-cols-2">
+  {#each cardObj as card}
+    <Card {...card} />
+  {/each}
+</section>
 
 
 
